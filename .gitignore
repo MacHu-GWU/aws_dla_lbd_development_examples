@@ -1,5 +1,5 @@
 *.egg-info                          # python library metadata
-venv/*                              # virtualenv
-vendor/*                            # chalice deployment
+venv/                               # virtualenv
+vendor/                             # chalice deployment
 __pycache__/                        # compiled bytes code cache
-.idea/*                             # PyCharm project
+.idea/                              # PyCharm project
