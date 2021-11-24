@@ -14,9 +14,23 @@ Prepare Development Environment
 
     source ./venv/bin/activate
 
-bash ./bin/pip-dev-install.sh
+3. Install your app package and dependencies.
+
+.. code-block:: bash
+
+    pip install -e .
 
 
+
+.. code-block:: bash
+
+    pip install -r requirements-test.txt
+
+5. Run unit test
+
+.. code-block:: bash
+
+    pip install -r requirements-test.txt
 
 Define Custom Runner, run python script in virtualenv.
 
