@@ -81,7 +81,7 @@ Prepare Development Environment
 
 Define Custom Runner, run python script in virtualenv.
 
-6.
+6.1
 
 .. code-block:: javascript
 
