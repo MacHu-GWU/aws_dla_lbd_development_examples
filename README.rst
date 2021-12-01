@@ -34,6 +34,8 @@ Prepare Development Environment
 
 Define Custom Runner, run python script in virtualenv.
 
+6.
+
 .. code-block:: javascript
 
     // Create a custom Cloud9 runner - similar to the Sublime build system
