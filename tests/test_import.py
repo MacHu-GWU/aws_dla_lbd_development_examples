@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
 
 import pytest
-from my_package.boto_ses import boto_ses
+
 
 def test():
-    s3_client = boto_ses.client("s3")
-    s3_client.list_buckets()
+    import my_package
 
 
 if __name__ == "__main__":
