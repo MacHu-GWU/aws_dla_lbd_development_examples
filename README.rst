@@ -35,6 +35,18 @@ Create Cloud 9 Environment
 
 Use Cloud 9 IDE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Things to know:
+
+- Top main menu
+- Left side tool menu
+- File explorer
+- Code Editor
+- Terminal
+- AWS Credential Management
+
+Reference:
+
 - Working with IDE: https://docs.aws.amazon.com/cloud9/latest/user-guide/ide.html
 
 
